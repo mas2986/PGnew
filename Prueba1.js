@@ -1,0 +1,3 @@
+let salud = () => {
+    alert('Hola')
+}
